@@ -1,0 +1,11 @@
+# =================================================================
+# External Library Dependencies for Adaptive Traffic Management System
+# =================================================================
+
+# Library Name          | Minimum Version | Source / Notes
+LiquidCrystal I2C       | >= 1.1.2        | Arduino Library Manager (by Frank de Brabander)
+
+# -----------------------------------------------------------------
+# Built-in Hardware Core Libraries (Pre-installed with Arduino IDE)
+# -----------------------------------------------------------------
+# Wire                  | Built-in        | Arduino AVR Core (I2C Master/Slave Driver)
